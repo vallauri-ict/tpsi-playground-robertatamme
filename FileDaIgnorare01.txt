@@ -1,2 +1,0 @@
-io sono un file da ignorare per GIT.
-non sarò sottoposto a versioning.
